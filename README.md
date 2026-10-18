@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkGamer7890
+- 👋 Hi, I’m @ParthDhall7
 - 👀 Learning Web Developement and ML.
 - ⭐Codechef Div3 highest rating 1501 and global rank of 28810.
 - 🌟Leetcode rating 1624 and rank of 111416 in contests.
